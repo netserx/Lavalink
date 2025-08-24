@@ -4,7 +4,7 @@ server:
 
 lavalink:
   server:
-    password: "nagham"   # غيّرها لو عايز
+    password: "nagham"   # غيّرها لو عا
     sources:
       youtube: true
       bandcamp: true
